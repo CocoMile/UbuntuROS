@@ -1,1 +1,5 @@
-
+[Error] Global Status: Error
+  Fix Frame unknowned frame...
+SOLVED:
+  把Fixed Frame的map改为base_link
+  点击Add 选择RobotModel
