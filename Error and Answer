@@ -3,3 +3,9 @@
 SOLVED:
   把Fixed Frame的map改为base_link
   点击Add 选择RobotModel
+ 
+ [Error] 找不到/cmd_vel话题
+ SOLVED:
+  <leftJoint>left_wheel_joint</leftJoint>
+  <rightJoint>right_wheel_joint</rightJoint>
+  关节节点连接不对
